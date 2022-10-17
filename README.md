@@ -18,10 +18,11 @@ Kelas : Fresh Graduate Academy <br>
 
 </div>
 ### Persyaratan
-- --Go versi 1.19
+- --Go versi 1.19 
 - --PostgreSQL
 
 ### Library yang digunakan
+
 - -- GORM
 - -- Framework Gin Gonic
 - -- Godotenv

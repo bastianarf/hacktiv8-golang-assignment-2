@@ -16,10 +16,11 @@ Nama : Bastian Arfianto <br>
 No. Registrasi : 149368582101-725 <br>
 Kelas : Fresh Graduate Academy <br>
 
-</div>
+</div> 
 ### Persyaratan
-- --Go versi 1.19 
-- --PostgreSQL
+
+- -- Go versi 1.19
+- -- PostgreSQL
 
 ### Library yang digunakan
 

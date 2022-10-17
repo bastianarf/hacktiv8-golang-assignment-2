@@ -1,2 +1,14 @@
 # hacktiv8-golang-assignment-2
- Assignment 2 - Hacktiv8 - Scalable Web Service with Golang - DTS Kominfo
+
+<!-- markdownlint-configure-file {
+  "MD013": {
+    "code_blocks": false,
+    "tables": false
+  },
+  "MD033": false,
+  "MD041": false
+} -->
+
+<div align="center">
+
+# zoxide
